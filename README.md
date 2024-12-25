@@ -1,0 +1,1 @@
+This repository demonstrates a common issue with React Router Dom's wildcard route (`*`). When placed before other routes, it will override all other routes. The provided solution showcases how to correctly position the wildcard route to ensure intended behavior.  The bug is demonstrated in `App.js` and the solution is in `AppSolution.js`.
